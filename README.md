@@ -127,4 +127,3 @@ var_dump($config['database.connection.local.host']);
 string(9) "localhost"
 */
 ~~~
-# config
